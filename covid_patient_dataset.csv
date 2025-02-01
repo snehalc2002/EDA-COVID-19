@@ -1,0 +1,51 @@
+Patient_ID,Name,Age,Gender,Location,Test_Date,Test_Result,Symptoms,Fever,Cough,Shortness_of_Breath,Oxygen_Level,Hospitalized,ICU_Admission,Vaccinated,Vaccine_Type,Doses_Received,Death,Comorbidities
+1,Kabir,52,Male,Ahmedabad,01-29-24,Positive,Severe,No,Yes,Yes,95,Yes,No,No,Pfizer,1,Yes,Hypertension
+2,Rohan,30,Female,Delhi,01-28-24,Positive,Mild,No,No,No,97,No,Yes,Yes,Covishield,2,No,None
+3,Kabir,64,Male,Bangalore,01-05-24,Positive,Severe,Yes,Yes,Yes,86,No,Yes,No,Covaxin,1,Yes,Hypertension
+4,Ananya,92,Male,Pune,01-12-24,Positive,None,Yes,Yes,No,85,No,No,No,Covishield,1,Yes,Hypertension
+5,Priya,44,Female,Lucknow,01-30-24,Negative,Moderate,Yes,No,Yes,92,No,Yes,Yes,None,1,Yes,Asthma
+6,Rohan,26,Male,Jaipur,01-29-24,Positive,Mild,Yes,Yes,Yes,93,No,Yes,No,Pfizer,2,Yes,None
+7,Ishaan,33,Male,Kolkata,01-10-24,Positive,Moderate,Yes,No,Yes,93,No,No,Yes,None,2,No,None
+8,Ishaan,65,Male,Kolkata,01-15-24,Negative,Severe,Yes,Yes,No,91,Yes,No,Yes,Covishield,1,No,Asthma
+9,Ishaan,63,Female,Pune,01-17-24,Negative,Mild,No,No,No,89,Yes,Yes,Yes,Moderna,0,No,None
+10,Ishaan,86,Female,Delhi,01-10-24,Positive,Moderate,Yes,Yes,No,96,No,No,No,Pfizer,1,Yes,Heart Disease
+11,Aryan,62,Male,Mumbai,01-25-24,Positive,Moderate,Yes,No,Yes,93,Yes,Yes,Yes,Covaxin,1,Yes,Diabetes
+12,Ishaan,44,Female,Hyderabad,01-24-24,Positive,None,Yes,No,Yes,94,No,No,No,Pfizer,0,Yes,Diabetes
+13,Rohan,81,Male,Mumbai,01-02-24,Negative,None,No,Yes,Yes,85,Yes,Yes,No,Covishield,1,No,Heart Disease
+14,Kabir,75,Female,Mumbai,01-06-24,Negative,Mild,No,No,No,90,Yes,Yes,Yes,Covaxin,2,No,Asthma
+15,Ishaan,20,Female,Chennai,01-19-24,Negative,Severe,Yes,Yes,No,91,No,Yes,No,Covaxin,2,No,Diabetes
+16,Aryan,50,Male,Lucknow,01-03-24,Positive,None,No,No,No,93,No,No,Yes,Moderna,0,Yes,None
+17,Kabir,9,Male,Bangalore,01-19-24,Negative,None,Yes,No,No,90,No,Yes,Yes,Moderna,1,No,Heart Disease
+18,Ishaan,89,Male,Jaipur,01-29-24,Negative,None,No,No,No,90,Yes,No,Yes,Moderna,0,No,Asthma
+19,Ananya,8,Male,Bangalore,01-17-24,Negative,Mild,No,No,Yes,87,No,Yes,No,None,2,No,None
+20,Vihaan,21,Female,Mumbai,01-28-24,Positive,None,Yes,Yes,No,97,No,Yes,No,Covaxin,1,Yes,Asthma
+21,Meera,99,Female,Jaipur,01-05-24,Negative,Mild,Yes,No,Yes,99,Yes,No,No,Covaxin,2,No,Hypertension
+22,Aryan,95,Female,Lucknow,01-03-24,Negative,Moderate,No,No,No,99,No,Yes,Yes,Covishield,1,No,Diabetes
+23,Rohan,33,Male,Hyderabad,01-16-24,Positive,Mild,No,Yes,No,87,No,Yes,Yes,Covaxin,0,No,Diabetes
+24,Rohan,16,Female,Bangalore,01-23-24,Positive,None,No,No,No,91,Yes,No,Yes,None,1,No,Hypertension
+25,Meera,49,Female,Lucknow,01-06-24,Positive,Moderate,Yes,No,Yes,85,No,Yes,No,None,2,No,Asthma
+26,Ananya,94,Male,Bangalore,01-23-24,Negative,None,No,Yes,No,96,No,No,No,Pfizer,1,Yes,Hypertension
+27,Sanya,90,Male,Pune,01-09-24,Negative,Mild,Yes,No,No,85,Yes,No,No,Covaxin,0,Yes,Diabetes
+28,Kabir,64,Male,Kolkata,01-22-24,Positive,Severe,Yes,No,No,87,Yes,No,No,Moderna,0,Yes,Diabetes
+29,Ananya,69,Female,Lucknow,01-26-24,Negative,Mild,Yes,No,Yes,98,No,Yes,No,None,1,No,Hypertension
+30,Priya,19,Female,Mumbai,01-24-24,Positive,Mild,No,No,No,91,No,Yes,No,Moderna,1,Yes,Heart Disease
+31,Aarav,33,Male,Bangalore,01-11-24,Positive,None,Yes,Yes,Yes,92,No,Yes,Yes,Moderna,2,No,Hypertension
+32,Ishaan,35,Male,Mumbai,01-26-24,Negative,Mild,No,No,No,98,No,Yes,No,Covishield,0,No,Asthma
+33,Rohan,36,Male,Kolkata,01-29-24,Positive,None,No,Yes,Yes,92,No,Yes,No,Covishield,0,Yes,Asthma
+34,Aarav,55,Male,Pune,01-25-24,Positive,Mild,No,Yes,Yes,98,No,No,Yes,Pfizer,0,No,Heart Disease
+35,Aryan,19,Female,Jaipur,01-07-24,Negative,Moderate,Yes,No,No,87,No,Yes,Yes,Pfizer,0,No,None
+36,Sanya,53,Male,Jaipur,01-07-24,Positive,Mild,No,No,Yes,98,Yes,No,Yes,Pfizer,2,No,Heart Disease
+37,Aryan,74,Female,Mumbai,01-29-24,Negative,Severe,No,Yes,No,94,Yes,No,Yes,None,0,No,None
+38,Rohan,65,Female,Chennai,01-17-24,Positive,Severe,Yes,Yes,No,88,No,No,Yes,Moderna,1,Yes,None
+39,Priya,90,Male,Pune,01-30-24,Positive,Mild,Yes,No,No,98,No,No,Yes,Covaxin,2,Yes,None
+40,Aryan,63,Female,Mumbai,01-25-24,Negative,Mild,No,Yes,No,94,No,Yes,Yes,None,2,No,Asthma
+41,Ananya,99,Male,Chennai,01-25-24,Negative,Severe,Yes,Yes,No,99,Yes,Yes,Yes,Covaxin,2,No,Hypertension
+42,Rohan,76,Female,Kolkata,01-08-24,Negative,None,No,No,No,94,No,No,Yes,Covaxin,2,No,Diabetes
+43,Aryan,33,Male,Chennai,01-13-24,Negative,None,Yes,Yes,No,87,Yes,No,Yes,Covaxin,1,No,Hypertension
+44,Sanya,33,Female,Mumbai,01-18-24,Negative,Severe,Yes,Yes,Yes,94,Yes,Yes,Yes,None,0,No,Diabetes
+45,Ishaan,1,Male,Pune,01-06-24,Negative,Mild,Yes,Yes,Yes,90,Yes,Yes,Yes,Covishield,1,Yes,Diabetes
+46,Sanya,78,Male,Mumbai,01-19-24,Positive,Mild,No,No,Yes,85,No,No,Yes,Covishield,1,No,None
+47,Vihaan,12,Male,Hyderabad,01-12-24,Positive,Moderate,No,Yes,Yes,85,No,Yes,Yes,None,0,No,Hypertension
+48,Ishaan,38,Female,Delhi,01-06-24,Negative,Moderate,No,No,Yes,95,Yes,Yes,No,Covaxin,2,No,Hypertension
+49,Ishaan,81,Male,Chennai,01-10-24,Negative,Mild,No,Yes,No,88,No,Yes,No,None,1,Yes,None
+50,Ishaan,23,Male,Hyderabad,01-16-24,Negative,None,No,No,No,93,Yes,No,Yes,Covishield,2,Yes,Asthma
